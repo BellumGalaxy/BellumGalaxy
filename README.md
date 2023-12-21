@@ -7,9 +7,12 @@ Our mission? Empower individuals for personal and collective growth. Join our ac
 and drive positive change. Together, we're shaping the future with blockchain technology.
 </h3>
 
+## 🏆 Awards
+   - [Horizon](https://devpost.com/software/horizon-8qkbv0) - Awarded as a Top 20 Quality Project at the Chainlink Constellation Hackathon.
+
 ## 🤝 Team
-[Barba](https://github.com/i3arba/) </br>
-[Raffaela Loffredo](https://github.com/raffaloffredo)
+   - [Barba](https://github.com/i3arba/) </br>
+   - [Raffaela Loffredo](https://github.com/raffaloffredo)
 
 ## 🛠️ Latest Projects
    - Constellation Hackathon - [Horizon](https://github.com/BellumGalaxy/constellation-bg)
