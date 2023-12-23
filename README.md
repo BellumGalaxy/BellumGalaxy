@@ -8,7 +8,7 @@ and drive positive change. Together, we're shaping the future with blockchain te
 </h3>
 
 ## 🏆 Awards
-   - [Horizon](https://devpost.com/software/horizon-8qkbv0) - Awarded as a Top 20 Quality Project at the Chainlink Constellation Hackathon.
+   - [Horizon](https://devpost.com/software/horizon-8qkbv0) - Awarded as a Top Quality Project at the Chainlink Constellation Hackathon.
 
 ## 🤝 Team
    - [Barba](https://github.com/i3arba/) </br>
